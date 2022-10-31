@@ -4,8 +4,8 @@
 #### This is only a back end of web shop API. It was created as a clone of [Lama Dev](https://github.com/safak) e-commerce app with small changes for learning purposes.
 #### Use **Postman** or a similar program to test it. 
 
-
-
+#
+#
 **Dependencies:**
 * [express](https://www.npmjs.com/package/express) fast, unopinionated, minimalist web framework for Node.js.
 ```
