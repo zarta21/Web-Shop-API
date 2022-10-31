@@ -9,19 +9,19 @@ npm i express
 ```
 npm i nodemon
 ```
-*[mongoose](https://www.npmjs.com/package/mongoose) is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports both promises and callbacks.
+* [mongoose](https://www.npmjs.com/package/mongoose) is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports both promises and callbacks.
 ```
 npm i mongoose
 ```
-*[dotenv](https://www.npmjs.com/package/dotenv) is a zero-dependency module that loads environment variables from a .env file into process.env.
+* [dotenv](https://www.npmjs.com/package/dotenv) is a zero-dependency module that loads environment variables from a .env file into process.env.
 ```
 npm i dotenv
 ```
-*[crypto-js](https://www.npmjs.com/package/crypto-js) JavaScript library of crypto standards.
+* [crypto-js](https://www.npmjs.com/package/crypto-js) JavaScript library of crypto standards.
 ```
 npm i crypto-js
 ```
-*[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) is a compact, URL-safe means of representing claims to be transferred between two parties. The claims in a JWT are encoded as a JSON object that is used as the payload of a JSON Web Signature (JWS) structure or as the plaintext of a JSON Web Encryption (JWE) structure, enabling the claims to be digitally signed or integrity protected with a Message Authentication Code (MAC) and/or encrypted.
+* [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) is a compact, URL-safe means of representing claims to be transferred between two parties. The claims in a JWT are encoded as a JSON object that is used as the payload of a JSON Web Signature (JWS) structure or as the plaintext of a JSON Web Encryption (JWE) structure, enabling the claims to be digitally signed or integrity protected with a Message Authentication Code (MAC) and/or encrypted.
 ```
 npm i jsonwebtoken
 ```
