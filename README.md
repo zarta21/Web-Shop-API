@@ -1,7 +1,7 @@
 # Web-Shop-API with Node.js and MongoDB
 
 
-#### This is only a back end of web shop API. It was created as a clone of [Lama Dev](https://github.com/safak) e-commerce app with small changes.
+#### This is only a back end of web shop API. It was created as a clone of [Lama Dev](https://github.com/safak) e-commerce app with small changes for learning purposes.
 #### Use **Postman** or a similar program to test it. 
 
 
