@@ -1,8 +1,8 @@
 # Web-Shop-API with Node.js and MongoDB
 
 
-### This is only a back end of web shop API. It was created as a cheat sheet.
-### Use **Postman** or a similar program to test it. 
+#### This is only a back end of web shop API. It was created as a clone of [Lama Dev](https://github.com/safak) e-commerce app with small changes.
+#### Use **Postman** or a similar program to test it. 
 
 **Dependencies:**
 * [express](https://www.npmjs.com/package/express) fast, unopinionated, minimalist web framework for Node.js.
@@ -29,6 +29,3 @@ npm i crypto-js
 ```
 npm i jsonwebtoken
 ```
-
-
-### It was made as a clone of [Lama Dev](https://github.com/safak) e-commerce app with small changes.
