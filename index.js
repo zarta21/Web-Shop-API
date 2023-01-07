@@ -21,7 +21,7 @@ mongoose.connect(process.env.MONGODB_URL)
     });
 
 
-app.use(express.json()); // this let us send json file to server
+app.use(express.json());
 
 
 app.use('/api/auth', authRoute); 
