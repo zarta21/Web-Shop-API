@@ -1,13 +1,6 @@
-const mongoose = require('mongoose') //https://mongoosejs.com/docs/api.html#mongoose_Mongoose
+const mongoose = require('mongoose') 
 
 
-//Everything in Mongoose starts with a Schema. 
-//Each schema maps to a MongoDB collection and defines the shape of the documents within that collection.
-//More about mongoose schemas:
-//https://mongoosejs.com/docs/guide.html
-
-
-//creating order schema:
 const OrderSchema = new mongoose.Schema({
     userId: { type: String, required: true },
     products: [
@@ -27,5 +20,4 @@ const OrderSchema = new mongoose.Schema({
 );
 
 
-//To use our schema definition, we need to convert our OrderSchema into a Model we can work with:
-module.exports = mongoose.model('Order', OrderSchema) //exporting order model
+module.exports = mongoose.model('Order', OrderSchema) 
